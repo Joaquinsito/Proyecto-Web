@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;
+    background-image: linear-gradient(90deg,rgb(132, 167, 205), rgb(189, 208, 220), rgb(211, 211, 211) );
+}
+form {
+    width: 600px;
+    min-height: 500px;
+    height: auto;
+    border-radius: 5px;
+    margin: 2% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 2%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+.col-form-label {
+    text-align:right;
+}
+
+
+#registro {
+    margin-left:20%;
+    margin-left: 15%;
+    text-align: justify;
+}
+
+
